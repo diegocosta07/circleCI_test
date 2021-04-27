@@ -7,3 +7,4 @@ def TestAdd():
 
 if __name__ == '__main__':
         TestAdd()
+        assert Add(5,5) == 10
